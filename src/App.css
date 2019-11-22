@@ -1,0 +1,11 @@
+.parent {
+  display: flex;
+  margin: 5px;
+}
+
+button {
+  background: white;
+  margin: 10px;
+  padding: 5px;
+  border: 2px solid teal;
+}
